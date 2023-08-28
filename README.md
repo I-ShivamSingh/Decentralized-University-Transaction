@@ -7,20 +7,19 @@ Software Details:
 
 The implementation of our decentralized university fee transaction system involves several software components and user interfaces. Here are the software details of the transaction web interface:
 
-1. Solidity Smart Contract:
+**1. Solidity Smart Contract:**
    - The smart contract is written in Solidity, a programming language specifically designed for Ethereum smart contracts. It contains the necessary functions and variables to facilitate fee transactions and maintain the transaction records on the blockchain.
    
 
-2. TypeScript Frontend Code:
+**2. TypeScript Frontend Code:**
    - The frontend code is developed using TypeScript, which enables interaction with the Ethereum blockchain and the smart contract. It includes functions for user authentication, course selection, transaction confirmation, and payment processing.
 
    
-3. Web-Based Interface:
+**3. Web-Based Interface:**
    - The web-based interface provides a user-friendly platform for students to interact with the system. It includes login screens, course selection pages, transaction confirmation prompts, and payment processing screens.
    
 
-4. Test Cases and Analysis:
-
+**4. Test Cases and Analysis:**
    - To ensure the functionality and reliability of the system, a comprehensive set of test cases is performed. The following table presents a sample of test cases and their results:
 
      | Test Case ID | Description                                             | Expected Result              | Actual Result                | Pass/Fail |
@@ -31,7 +30,7 @@ The implementation of our decentralized university fee transaction system involv
      | TC-004       | Transaction confirmation for a selected course          | Transaction confirmed        | Transaction confirmed        | Pass      |
      | TC-005       | Payment processing for the confirmed transaction        | Payment successful           | Payment successful           | Pass      |
 
-5. Performance Analysis:
+**5. Performance Analysis:**
 
    - <p align="justify">In terms of performance, the decentralized university fee transaction system offers several advantages over existing systems. The implementation on the Ethereum blockchain ensures high security and immutability of the transaction records. The system leverages the distributed nature of the blockchain, eliminating the need for centralized intermediaries and reducing the risk of transaction fraud.</p>
 
